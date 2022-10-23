@@ -17,15 +17,17 @@ export function  Sidebar() {
         />
 
         <strong>Osvaldo Kalvaitir</strong>
+
         <span>FullStack Developer</span>
 
         <footer>
           <a href="#">
             <PencilSimpleLine size={20} />
+            
             Editar seu perfil
           </a>
         </footer>
       </div>
     </aside>
   );
-}
+};
